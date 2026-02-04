@@ -105,7 +105,7 @@ Battle Pass: Max Level
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
