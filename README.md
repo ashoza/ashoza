@@ -13,7 +13,7 @@
 ## About Me
 
 ```javascript
-const traveler = {
+const captain = {
     currentlyPlaying: ["Honkai Impact 3rd"],
     favoriteCharacters: {
       HonkaiImpact: ["Kiana Kaslana"], ["Lantern"], ["Raiden Mei"], ["Bronya Zaychik"]
@@ -93,7 +93,7 @@ Battle Pass: Max Level
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/466589408334970891)
-[![HoYoLAB](https://img.shields.io/badge/HoYoLAB-FF6B6B?style=for-the-badge&logo=https://upload-os-bbs.hoyolab.com/upload/2024/03/20/250895757/8090f738ae026ce0a8573969ccf25eec_1313117971845434780.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70")](https://www.hoyolab.com/accountCenter/postList?id=430401224)
+[![HoYoLAB](https://img.shields.io/badge/HoYoLAB-FF6B6B?style=for-the-badge&logo=https://upload-os-bbs.hoyolab.com/upload/2024/03/20/250895757/8090f738ae026ce0a8573969ccf25eec_1313117971845434780.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70)](https://www.hoyolab.com/accountCenter/postList?id=430401224)
 
 </div>
 
