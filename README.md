@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Captain+%7C+Developer+%7C+miHoYo+Enthusiast)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=miHoYo%20Fan&fontSize=42&fontAlignY=25&desc=Exploring%20the%20worlds%20of%20Teyvat%2C%20Penacony%2C%20and%20beyond&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=miHoYo%20Fan&fontSize=42&fontAlignY=25&desc=Exploring%20the%20worlds%20of%20Honkai Impact%2C%20miHoYo%2C%20and%20beyond&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -26,7 +26,7 @@ const traveler = {
         interests: ["Game Dev", "Web Dev", "API Integration"],
         currentProject: "Building miHoYo fan tools"
     },
-    funFact: "I've never missed a daily commission! ⚔️"
+    funFact: "I'm lazy"
 };
 ```
 
@@ -110,8 +110,6 @@ const traveler = {
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/YOUR_TWITCH)
 [![HoYoLAB](https://img.shields.io/badge/HoYoLAB-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFCSURBVCiRY/hPADAwMDD8h+J/UEwKm5mZMXh6ejIMDQ3BxBkYGBgY/v37x8DAwMDw//9/fLb8+/cPbgsDAwPD////GRj+/2dgYGBg+P//P8N/BgZ8Nv7//x+uDl/Yv3v3Dq4WXdjQ0BCDubk5Q2JiItyMf//+MfyDqmX4D8Vgc+Hm/v37F24DAygSwU5G1ggMXGQ1/0GhwPD//38GZmZmBldXV4bU1FSGmzdvMvz9+xfuZLCakpIShoqKCga4H5BjlIGBgYHh////cI0MDAwM/xkYGP4zMPxnYGBgYPiHZO6/f//gGuFO/v8fLobsZGQb4U4GB8P/////R9YEthHZz+A0AWwj2M8gjeAkB/Yz3N9wGyH+ZmBgYPgP1fj////HDAwMDP+h8g==")](https://www.hoyolab.com/accountCenter/postList?id=YOUR_HOYOLAB)
 
 </div>
