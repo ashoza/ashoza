@@ -72,11 +72,7 @@ const traveler = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashoza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
-  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashoza&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashoza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
 
 </div>
 
@@ -88,11 +84,11 @@ const traveler = {
 
 > *"I feel really happy knowing that I can protect others"* - **Theresa Apocalypse**
 
-> *"I will sacrifice anyone to save the world."* - **Theresa Apocalypse**
+> *"I will sacrifice anyone to save the world."* - **Bronya Zaychik**
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -103,7 +99,7 @@ const traveler = {
 
 ---
 
-## Daily Inspiration
+## Daily Inspiration ( real )
 
 <div align="center">
   
