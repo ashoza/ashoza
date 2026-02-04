@@ -68,16 +68,6 @@ Battle Pass: Max Level
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashoza&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
-
-</div>
-
----
-
 ## Favorite Quotes
 
 > *"It sure isn't sunshine and rainbows, but there are people who taught me to never give up. They've been guiding me and showing me all the beautiful things in the world. I love them, and I love what they love."* - **Kiana Kaslana**
