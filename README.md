@@ -101,11 +101,9 @@ Battle Pass: Max Level
 
 ## Inspiration
 
-<div align="center">
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-  
-  <img src="https://i.pinimg.com/736x/9b/52/0c/9b520c751c3c760bc29b00cffa55e682.jpg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
