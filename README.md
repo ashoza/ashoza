@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Captain+%7C+Developer+%7C+miHoYo+Enthusiast)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=miHoYo%20Fan&fontSize=42&fontAlignY=25&desc=Exploring%20the%20worlds%20of%20Honkai Impact%2C%20miHoYo%2C%20and%20beyond&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/id/2/24/Logo_miHoYo.png"/>
 
 </div>
 
