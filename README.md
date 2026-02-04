@@ -30,19 +30,6 @@ const traveler = {
 };
 ```
 
----
-
-## My HoYoverse Journey
-
-<div align="center">
-
-| Honkai Impact 3 rd |
-|:-----------------:|:--------------------:|:---------------------:|
-| CL 88 |
-| I'm dead |
-
-</div>
-
 ### Gaming Stats
 
 <div align="center">
@@ -109,14 +96,14 @@ const traveler = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![HoYoLAB](https://img.shields.io/badge/HoYoLAB-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFCSURBVCiRY/hPADAwMDD8h+J/UEwKm5mZMXh6ejIMDQ3BxBkYGBgY/v37x8DAwMDw//9/fLb8+/cPbgsDAwPD////GRj+/2dgYGBg+P//P8N/BgZ8Nv7//x+uDl/Yv3v3Dq4WXdjQ0BCDubk5Q2JiItyMf//+MfyDqmX4D8Vgc+Hm/v37F24DAygSwU5G1ggMXGQ1/0GhwPD//38GZmZmBldXV4bU1FSGmzdvMvz9+xfuZLCakpIShoqKCga4H5BjlIGBgYHh////cI0MDAwM/xkYGP4zMPxnYGBgYPiHZO6/f//gGuFO/v8fLobsZGQb4U4GB8P/////R9YEthHZz+A0AWwj2M8gjeAkB/Yz3N9wGyH+ZmBgYPgP1fj////HDAwMDP+h8g==")](https://www.hoyolab.com/accountCenter/postList?id=YOUR_HOYOLAB)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/466589408334970891)
+[![HoYoLAB](https://img.shields.io/badge/HoYoLAB-FF6B6B?style=for-the-badge&logo=https://upload-os-bbs.hoyolab.com/upload/2024/03/20/250895757/8090f738ae026ce0a8573969ccf25eec_1313117971845434780.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70")](https://www.hoyolab.com/accountCenter/postList?id=430401224)
 
 </div>
 
 ---
 
-## 🎨 Daily Inspiration
+## Daily Inspiration
 
 <div align="center">
   
@@ -130,8 +117,6 @@ const traveler = {
 
 <div align="center">
   
-  ### ⭐ May your wishes be blessed by the Gacha Gods ⭐
-  
-  ![Visitor Count](https://profile-counter.glitch.me/ashoza/count.svg)
+  ### May all the beauty be blessed
   
 </div>
