@@ -1,4 +1,4 @@
-#  <center>Welcome to My Profile</center>
+# Welcome to My Profile
 
 <div align="center">
   
