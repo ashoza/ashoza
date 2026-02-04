@@ -1,4 +1,4 @@
-#  Welcome to My Bum Profile
+#  Welcome to My Profile
 
 <div align="center">
   
@@ -35,10 +35,10 @@ const traveler = {
 <div align="center">
   
 ```
- Total Achievements: 3000+
- Crystals Saved: ████████░░ (80%)
- Gacha Luck: ████████░░ (Lost 50/50: 5 times)
- Battle Pass: Max Level
+Total Achievements: 3000+
+Crystals Saved: ████████░░ (80%)
+Gacha Luck: ████████░░ (Lost 50/50: 5 times)
+Battle Pass: Max Level
 ```
 
 </div>
@@ -99,7 +99,7 @@ const traveler = {
 
 ---
 
-## Daily Inspiration ( real )
+## Daily Inspiration
 
 <div align="center">
   
