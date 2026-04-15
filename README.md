@@ -1,13 +1,5 @@
 # Welcome to My Profile
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Captain+%7C+Developer+%7C+miHoYo+Enthusiast)
-  
-  <img src="https://upload.wikimedia.org/wikipedia/id/2/24/Logo_miHoYo.png"/>
-
-</div>
-
 ---
 
 ## About Me
