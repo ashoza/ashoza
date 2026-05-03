@@ -90,6 +90,6 @@ Total loser, and loves to play Dota 2, LoL, HoK, Honkai Impact
 
 <div align="center">
   
-  ### May all the beauty be blessed
+  ### YO STOP STALKING MY GITHUB 😭!
   
 </div>
