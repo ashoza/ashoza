@@ -27,10 +27,7 @@ const captain = {
 <div align="center">
   
 ```
-Total Achievements: 3000+
-Crystals Saved: ████████░░ (80%)
-Gacha Luck: ████████░░ (Lost 50/50: 5 times)
-Battle Pass: Max Level
+Total loser, and loves to play Dota 2, LoL, HoK, Honkai Impact
 ```
 
 </div>
